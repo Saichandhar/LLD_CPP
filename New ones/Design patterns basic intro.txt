@@ -1,0 +1,25 @@
+CREATIONAL
+────────────────────────
+Factory Method
+Abstract Factory
+Builder
+Singleton
+Prototype
+
+
+STRUCTURAL
+────────────────────────
+Adapter
+Decorator
+Facade
+Proxy
+
+
+BEHAVIORAL
+────────────────────────
+Strategy
+Observer
+State
+Command
+Template Method
+Chain of Responsibility
